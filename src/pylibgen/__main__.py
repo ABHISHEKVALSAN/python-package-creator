@@ -1,8 +1,9 @@
-import argparser
+import argparse
 
 
 def main(args=None):
-    pass
+
+    parser = argparse.ArgumentParser()
 
 if __name__=='__main__':
     main()
